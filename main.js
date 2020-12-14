@@ -3,10 +3,7 @@ const link = document.querySelector(".play-pause-link");
 
 let sound = new Howl({
   src: ["sounds/Baby FuzZ - Cig.m4a"],
-  autoplay: true,
-  loop: true,
-  volume: 0.6,
-  ons
+  volume: 1
 });
 let id = 0;
 let count = 0;

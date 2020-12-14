@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.btn-play {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  width: 3.2rem;
+  height: 3.2rem;
+}
+.play-pause {
+  border-radius: 25rem;
+}
+.play-pause-link {
+  fill: orange;
+}
